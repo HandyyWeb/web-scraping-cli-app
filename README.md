@@ -2,20 +2,22 @@
 
 > CLI tool to perform personalized web scrapping
 
+![Alt text](./assets/Screenshots.png)
+
 # Get started
 
-> Clone the repository and install all the packages
+Clone the repository and install all the packages
 
     git clone https://github.com/HandyyWeb/web-scraping-cli-app.git
     npm install
 
-> Install globally
+Install globally
 
     npm install -g
 
 # Documentation
 
-> To see how it works, run `scrap --help`
+To see how it works, run `scrap --help`
 
     scrap --help
     Usage: scrap <document url> <css selector>
@@ -24,11 +26,11 @@
         --version  Show version number                                       [boolean]
         --help     Show help                                                 [boolean]
 
-> Basic usage
+Basic usage
 
     scrap <document url><css selector>
 
-> Exemple
+Exemple
 
     scrap https://webscraper.io/test-sites/e-commerce/allinone p
 
@@ -52,4 +54,5 @@
 # Author & Contacts
 
 Lebreton Andy
+
 E-mail : lebreton.andy@proton.me
