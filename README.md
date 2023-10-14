@@ -30,7 +30,7 @@ Basic usage
 
     scrap <document url><css selector>
 
-Exemple
+Example
 
     scrap https://webscraper.io/test-sites/e-commerce/allinone p
 
